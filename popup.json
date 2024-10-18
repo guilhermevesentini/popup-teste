@@ -1,15 +1,15 @@
 [
   {
-  nome: 'Divulgacao Black Friday',
-  imagem: '../assets/Images/f360-divulgacao-black-friday.png',
-  link: "https://bit.ly/47Of9ft",
-  localStorageId: "divulgacaoBlackFrinday041024",
-  categoria: "Pop-up - Divulgacao Black Friday",
-  inicio: "2024/10/15",// -> nao colocar periodos igual ao de outra campanha
-  fim: "2024/10/25",// -> nao colocar periodos igual ao de outra campanha
-  action: 'Baixe Agora',
-  preventClient: ["CDS"],
-  preventCli: [],
-  closeColor: "#fff"
+  "nome": 'Divulgacao Black Friday',
+  "imagem": '../assets/Images/f360-divulgacao-black-friday.png',
+  "link": "https://bit.ly/47Of9ft",
+  "localStorageId": "divulgacaoBlackFrinday041024",
+  "categoria": "Pop-up - Divulgacao Black Friday",
+  "inicio": "2024/10/15",// -> nao colocar periodos igual ao de outra campanha
+  "fim": "2024/10/25",// -> nao colocar periodos igual ao de outra campanha
+  "action": 'Baixe Agora',
+  "preventClient": ["CDS"],
+  "preventCli": [],
+  "closeColor": "#fff"
   }
 ]
