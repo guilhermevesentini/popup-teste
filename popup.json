@@ -12,6 +12,20 @@
     "preventCli": [],
     "direcionarCampanhar": ["TES-1032"],
     "closeColor": "#fff"
+  },
+  {
+    "nome": "Divulgacao Black Friday",
+    "imagem": "https://raw.githubusercontent.com/guilhermevesentini/popup-teste/refs/heads/main/imagens/imagem-popup-teste.png",
+    "link": "https://bit.ly/47Of9ft",
+    "localStorageId": "divulgacaoteste181024",
+    "categoria": "Pop-up - Divulgacao Black Friday",
+    "inicio": "2024/10/15",
+    "fim": "2024/10/25",
+    "action": "Baixe Agora",
+    "preventClient": ["CDS"],
+    "preventCli": [],
+    "direcionarCampanhar": [],
+    "closeColor": "#fff"
   }
 ]
 
