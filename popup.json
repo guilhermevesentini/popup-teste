@@ -10,6 +10,7 @@
     "action": "Baixe Agora",
     "preventClient": ["CDS"],
     "preventCli": [],
+    "direcionarCampanhar": ["TES-1032"]
     "closeColor": "#fff"
   }
 ]
