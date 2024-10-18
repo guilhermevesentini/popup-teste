@@ -1,7 +1,7 @@
 [
   {
     "nome": "Divulgacao Black Friday",
-    "imagem": "../assets/Images/f360-divulgacao-black-friday.png",
+    "imagem": "https://raw.githubusercontent.com/guilhermevesentini/popup-teste/refs/heads/main/imagens/imagem-popup-teste.png",
     "link": "https://bit.ly/47Of9ft",
     "localStorageId": "divulgacaoBlackFrinday041024",
     "categoria": "Pop-up - Divulgacao Black Friday",
