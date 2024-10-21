@@ -1,30 +1,18 @@
 [
   {
-    "nome": "Divulgacao Black Friday",
-    "imagem": "https://raw.githubusercontent.com/guilhermevesentini/popup-teste/refs/heads/main/imagens/imagem-popup-teste.png",
-    "link": "https://bit.ly/47Of9ft",
-    "localStorageId": "divulgacaoBlackFrinday041024",
-    "categoria": "Pop-up - Divulgacao Black Friday",
-    "inicio": "2024/10/10",
-    "fim": "2024/10/10",
-    "action": "Baixe Agora",
-    "preventClient": ["CDS"],
-    "preventCli": [],
-    "direcionarCampanhar": ["TES-1032"],
-    "closeColor": "#fff"
-  },
-  {
-    "nome": "Divulgacao Venda mais",
-    "imagem": "https://raw.githubusercontent.com/guilhermevesentini/popup-teste/refs/heads/main/imagens/imagem-popup-teste-dois.png",
-    "link": "https://bit.ly/47Of9ft",
-    "localStorageId": "divulgacaoVendaMais181024",
-    "categoria": "Pop-up - Divulgacao Venda mais",
-    "inicio": "2024/10/15",
+    "nome": "Divulgacao Curso GE",
+    "imagem": "https://raw.githubusercontent.com/guilhermevesentini/popup-teste/refs/heads/main/imagens/f360-campanha-curso-ge.png",
+    "link": "https://youtu.be/MLKM2RHJLw8",
+    "localStorageId": "divulgacaoCursoGe21102024",
+    "categoria": "Pop-up - Divulgacao Divulgacao Curso GE",
+    "inicio": "2024/10/20",
     "fim": "2024/10/25",
-    "action": "Baixe E-book",
-    "preventClient": ["CDS"],
+    "action": "Saiba Mais",
+    "preventClient": [
+      "CDS"
+    ],
     "preventCli": [],
-    "direcionarCampanhar": [],
+    "direcionarCampanha": [],
     "closeColor": "#fff"
   }
 ]
